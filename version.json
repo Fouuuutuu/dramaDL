@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "release_date": "2026-02-26",
   "download_url": "https://github.com/Fouuuutuu/DramaDL/releases/download/v1.0.2/DramaDL.exe",
   "changelog": [
-    "New Update",
+    "Fix Error For ReelShort",
     "Bug fixes"
   ]
 }
