@@ -8,6 +8,8 @@
     "Added ZIP button (Select All Episodes only)",
     "Added Merge All Episodes into one video",
     "Added real-time download speed indicator",
-    "Improved file save structure"
+    "Improved file save structure",
+    "After Update Click YES AND SETUP AGAIN",
+    "Auto Remove Old Version"
   ]
 }
