@@ -3,7 +3,11 @@
   "release_date": "2026-02-26",
   "download_url": "https://github.com/Fouuuutuu/DramaDL/releases/download/v1.0.4/DramaDL_v1.0.4.exe",
   "changelog": [
-    "Fix Error For ReelShort",
-    "Bug fixes"
+    "Fix error for ReelShort",
+    "Bug fixes",
+    "Added ZIP button (Select All Episodes only)",
+    "Added Merge All Episodes into one video",
+    "Added real-time download speed indicator",
+    "Improved file save structure"
   ]
 }
